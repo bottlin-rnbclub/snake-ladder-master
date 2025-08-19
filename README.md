@@ -50,14 +50,3 @@ python snakes.py
 4. With each roll the grid gets updated with an updated score the goal.
 
 5. The first person to reach the end will be declared as a winner
-
-# technical task:
-
-Create a game in which players can control cats, but not with regular buttons, but remotely - via a Telegram bot.
-
-The game server videos will have a flask application with a database.
-
-The Telegram bot will perform the actions of the game server user via API.
-
-The pgzero application will receive information from the game server via API and draw cats and coins in the right places. Cats move around a field with conditional cells measuring 32x32 pixels.
-
