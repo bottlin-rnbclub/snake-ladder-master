@@ -1,4 +1,4 @@
-# snake-and-ladder-python
+# 
 
 A simple game of snakes and ladders created on `Python 3.11` as a school project.
 
@@ -61,6 +61,3 @@ The Telegram bot will perform the actions of the game server user via API.
 
 The pgzero application will receive information from the game server via API and draw cats and coins in the right places. Cats move around a field with conditional cells measuring 32x32 pixels.
 
-
-# Image 
-![Image alt](https://github.com/bottlin-rnbclub/Cat_Game/tree/main/imageForGit/1.png)
